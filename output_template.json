@@ -1,0 +1,10 @@
+{
+    "normal": {
+        "att1": ["v1"],
+        "att2": ["v2", "v3"]
+    },
+    "table": [
+        {"header": [], "rows":[]},
+        {"header": [], "rows":[]}
+    ]
+}
